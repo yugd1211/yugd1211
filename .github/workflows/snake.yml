@@ -31,7 +31,7 @@ jobs:
           outputs: |
             # dist/github-contribution-grid-snake.svg
             # dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FAD267&color_dots=#6C5D53,#9EB696,#5C6E56,#42553D,#D88382,#D88382
+            dist/github-snake-dark.svg?color_snake=#FAD267&color_dots=#6C5D53,#9EB696,#5C6E56,#42553D,#D88382,#D88382
             
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
