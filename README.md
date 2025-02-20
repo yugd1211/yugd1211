@@ -20,5 +20,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugd1211&show_icons=true&theme=dark&size=0.7)
 </div>
 
-<img src="https://github.com/yugd1211/yugd1211/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/yugd1211/yugd1211/blob/output/github-snake-dark.svg"/>
 
