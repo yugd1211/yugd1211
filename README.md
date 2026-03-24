@@ -5,6 +5,10 @@
 
 ## Email
   yugd1211@gmail.com
+
+## Blog
+  https://spring-furniture-661.notion.site/221413998df280099a9fc8e2865f2406
+
 ## Skill
 
 <img src="https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
