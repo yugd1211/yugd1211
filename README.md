@@ -6,7 +6,7 @@ Unity Client Developer
 C / C++ / C# 기반으로 게임 클라이언트, 네트워크, UI 시스템 개발에 관심이 있습니다.
 
 - Email: yugd1211@gmail.com
-- Blog: https://spring-furniture-661.notion.site/221413998df280099a9fc8e2865f2406
+- Blog: [https://spring-furniture-661.notion.site/221413998df280099a9fc8e2865f2406](https://spring-furniture-661.notion.site/developer-kyd)
 
 ## Skills
 
